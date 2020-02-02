@@ -1,0 +1,1605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/main/java/com/atguigu/springcloud/controller/DeptController.java" line="24" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc9022ce-a11e-4c3d-bd2f-1bf325387b0d" name="Default Changelist" comment="">
+      <change afterPath="F:/App/Dialog/.gitignore" afterDir="false" />
+      <change afterPath="F:/App/Dialog/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="F:/App/Dialog/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="F:/App/Dialog/.idea/misc.xml" afterDir="false" />
+      <change afterPath="F:/App/Dialog/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="F:/App/Dialog/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/.gitignore" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/build.gradle" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/libs/BaiduLBS_Android.jar" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/androidTest/java/com/example/dialog/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/java/com/example/dialog/MainActivity.java" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/java/com/example/dialog/MapUtil.java" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/arm64-v8a/libBaiduMapSDK_base_v5_4_1.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/arm64-v8a/libBaiduMapSDK_base_v5_4_3.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/arm64-v8a/libBaiduMapSDK_bikenavi_v5_4_3.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/arm64-v8a/libBaiduMapSDK_map_for_bikenavi_v5_4_3.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/arm64-v8a/libBaiduMapSDK_map_v5_4_1.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/arm64-v8a/libapp_BaiduPanoramaAppLib.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/arm64-v8a/liblocSDK7b.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/arm64-v8a/liblocSDK7d.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/armeabi-v7a/libBaiduMapSDK_base_v5_4_1.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/armeabi-v7a/libBaiduMapSDK_base_v5_4_3.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/armeabi-v7a/libBaiduMapSDK_bikenavi_v5_4_3.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/armeabi-v7a/libBaiduMapSDK_map_for_bikenavi_v5_4_3.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/armeabi-v7a/libBaiduMapSDK_map_v5_4_1.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/armeabi-v7a/libapp_BaiduPanoramaAppLib.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/armeabi-v7a/liblocSDK7b.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/armeabi-v7a/liblocSDK7d.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/armeabi/libBaiduMapSDK_base_v5_4_1.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/armeabi/libBaiduMapSDK_base_v5_4_3.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/armeabi/libBaiduMapSDK_bikenavi_v5_4_3.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/armeabi/libBaiduMapSDK_map_for_bikenavi_v5_4_3.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/armeabi/libBaiduMapSDK_map_v5_4_1.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/armeabi/libapp_BaiduPanoramaAppLib.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/armeabi/liblocSDK7b.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/armeabi/liblocSDK7d.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/x86/libBaiduMapSDK_base_v5_4_1.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/x86/libBaiduMapSDK_base_v5_4_3.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/x86/libBaiduMapSDK_bikenavi_v5_4_3.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/x86/libBaiduMapSDK_map_for_bikenavi_v5_4_3.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/x86/libBaiduMapSDK_map_v5_4_1.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/x86/libapp_BaiduPanoramaAppLib.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/x86/liblocSDK7b.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/x86/liblocSDK7d.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/x86_64/libBaiduMapSDK_base_v5_4_1.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/x86_64/libBaiduMapSDK_base_v5_4_3.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/x86_64/libBaiduMapSDK_bikenavi_v5_4_3.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/x86_64/libBaiduMapSDK_map_for_bikenavi_v5_4_3.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/x86_64/libBaiduMapSDK_map_v5_4_1.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/x86_64/libapp_BaiduPanoramaAppLib.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/x86_64/liblocSDK7b.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/jniLibs/x86_64/liblocSDK7d.so" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/res/anim/dialog_in_anim.xml" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/res/anim/dialog_out_anim.xml" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/res/drawable/firsttext.xml" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/res/drawable/secondtext.xml" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/res/drawable/thirdtext.xml" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/res/layout/dialog_custom_layout.xml" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="F:/App/Dialog/app/src/test/java/com/example/dialog/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="F:/App/Dialog/build.gradle" afterDir="false" />
+      <change afterPath="F:/App/Dialog/gradle.properties" afterDir="false" />
+      <change afterPath="F:/App/Dialog/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="F:/App/Dialog/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="F:/App/Dialog/gradlew" afterDir="false" />
+      <change afterPath="F:/App/Dialog/gradlew.bat" afterDir="false" />
+      <change afterPath="F:/App/Dialog/settings.gradle" afterDir="false" />
+      <change afterPath="F:/App/Gaode/app/libs/AMap3DMap_6.9.2_AMapNavi_6.9.0_AMapSearch_6.9.2_AMapLocation_4.7.0_20190710.jar" afterDir="false" />
+      <change afterPath="F:/App/Gaode/app/src/main/jniLibs/arm64-v8a/libAMapSDK_MAP_v6_9_2.so" afterDir="false" />
+      <change afterPath="F:/App/Gaode/app/src/main/jniLibs/arm64-v8a/libAMapSDK_NAVI_v6_9_0.so" afterDir="false" />
+      <change afterPath="F:/App/Gaode/app/src/main/jniLibs/arm64-v8a/libmp3decoder.so" afterDir="false" />
+      <change afterPath="F:/App/Gaode/app/src/main/jniLibs/arm64-v8a/librtbt828.so" afterDir="false" />
+      <change afterPath="F:/App/Gaode/app/src/main/jniLibs/arm64-v8a/libwtbt828.so" afterDir="false" />
+      <change afterPath="F:/App/Gaode/app/src/main/jniLibs/armeabi-v7a/libAMapSDK_MAP_v6_9_2.so" afterDir="false" />
+      <change afterPath="F:/App/Gaode/app/src/main/jniLibs/armeabi-v7a/libAMapSDK_NAVI_v6_9_0.so" afterDir="false" />
+      <change afterPath="F:/App/Gaode/app/src/main/jniLibs/armeabi-v7a/libmp3decoder.so" afterDir="false" />
+      <change afterPath="F:/App/Gaode/app/src/main/jniLibs/armeabi-v7a/librtbt828.so" afterDir="false" />
+      <change afterPath="F:/App/Gaode/app/src/main/jniLibs/armeabi-v7a/libwtbt828.so" afterDir="false" />
+      <change afterPath="F:/App/Gaode/app/src/main/jniLibs/armeabi/libAMapSDK_MAP_v6_9_2.so" afterDir="false" />
+      <change afterPath="F:/App/Gaode/app/src/main/jniLibs/armeabi/libAMapSDK_NAVI_v6_9_0.so" afterDir="false" />
+      <change afterPath="F:/App/Gaode/app/src/main/jniLibs/armeabi/libmp3decoder.so" afterDir="false" />
+      <change afterPath="F:/App/Gaode/app/src/main/jniLibs/armeabi/librtbt828.so" afterDir="false" />
+      <change afterPath="F:/App/Gaode/app/src/main/jniLibs/armeabi/libwtbt828.so" afterDir="false" />
+      <change afterPath="F:/App/Gaode/app/src/main/jniLibs/x86/libAMapSDK_MAP_v6_9_2.so" afterDir="false" />
+      <change afterPath="F:/App/Gaode/app/src/main/jniLibs/x86/libAMapSDK_NAVI_v6_9_0.so" afterDir="false" />
+      <change afterPath="F:/App/Gaode/app/src/main/jniLibs/x86/libmp3decoder.so" afterDir="false" />
+      <change afterPath="F:/App/Gaode/app/src/main/jniLibs/x86/librtbt828.so" afterDir="false" />
+      <change afterPath="F:/App/Gaode/app/src/main/jniLibs/x86/libwtbt828.so" afterDir="false" />
+      <change afterPath="F:/App/Gaode/app/src/main/jniLibs/x86_64/libAMapSDK_MAP_v6_9_2.so" afterDir="false" />
+      <change afterPath="F:/App/Gaode/app/src/main/jniLibs/x86_64/libAMapSDK_NAVI_v6_9_0.so" afterDir="false" />
+      <change afterPath="F:/App/Gaode/app/src/main/jniLibs/x86_64/libmp3decoder.so" afterDir="false" />
+      <change afterPath="F:/App/Gaode/app/src/main/jniLibs/x86_64/librtbt828.so" afterDir="false" />
+      <change afterPath="F:/App/Gaode/app/src/main/jniLibs/x86_64/libwtbt828.so" afterDir="false" />
+      <change afterPath="F:/App/Trip_13/Trip13/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="F:/BaiduMap_AndroidPanoramaSDK_v2.6.3_Sample/.idea/libraries/Gradle__android_android_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-api/microservicecloudapi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-api/src/main/java/com/atguigu/springcloud/entities/Dept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-api/src/main/java/com/atguigu/springcloud/service/DeptClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-api/src/main/java/com/atguigu/springcloud/service/DeptClientServiceFallbackFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-3333/microservicecloudconfig3333.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-3333/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-3333/src/main/java/com/atguigu/springcloud/Config_3333_StartSpringCloudApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-3333/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-client-3355/microservicecloudconfigclient3355.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-client-3355/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-client-3355/src/main/java/com/atguigu/springcloud/ConfigClient_3355_StartSpringCloudApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-client-3355/src/main/java/com/atguigu/springcloud/rest/ConfigClientRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-client-3355/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-client-3355/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/microservicecloudconfigdeptclient8001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/java/com/atguigu/springcloud/DeptProvider8001_App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/java/com/atguigu/springcloud/controller/DeptController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/java/com/atguigu/springcloud/dao/DeptDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/java/com/atguigu/springcloud/service/DeptService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/java/com/atguigu/springcloud/service/impl/DeptServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/resources/mybatis/mapper/DeptMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/resources/mybatis/mybatis.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/src/main/java/com/atguigu/springcloud/Config_Git_EurekaServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-consumer-dept-80/microservicecloudconsumerdept80.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-consumer-dept-80/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-consumer-dept-80/src/main/java/com/atguigu/myrule/MySelfRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-consumer-dept-80/src/main/java/com/atguigu/myrule/RandomRule_ZY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-consumer-dept-80/src/main/java/com/atguigu/springcloud/DeptConsumer80_App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-consumer-dept-80/src/main/java/com/atguigu/springcloud/cfgbean/ConfigBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-consumer-dept-80/src/main/java/com/atguigu/springcloud/controller/DeptController_Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-consumer-dept-80/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/microservicecloudconsumerdeptfeign.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/src/main/java/com/atguigu/springcloud/DeptConsumer80_App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/src/main/java/com/atguigu/springcloud/cfgbean/ConfigBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/src/main/java/com/atguigu/springcloud/controller/DeptController_Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-consumer-hystrix-dashboard/microservicecloudconsumerhystrixdashboard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-consumer-hystrix-dashboard/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-consumer-hystrix-dashboard/src/main/java/com/atguigu/springcloud/DeptConsumer_DashBoard_App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-consumer-hystrix-dashboard/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-eureka-7001/microservicecloudeureka7001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-eureka-7001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-eureka-7001/src/main/java/com/atguigu/springcloud/EurekaServer7001_App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-eureka-7001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-eureka-7002/microservicecloudeureka7002.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-eureka-7002/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-eureka-7002/src/main/java/com/atguigu/springcloud/EurekaServer7002_App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-eureka-7002/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-eureka-7003/microservicecloudeureka7003.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-eureka-7003/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-eureka-7003/src/main/java/com/atguigu/springcloud/EurekaServer7003_App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-eureka-7003/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/microservicecloudproviderdept8001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/main/java/com/atguigu/springcloud/DeptProvider8001_App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/main/java/com/atguigu/springcloud/controller/DeptController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/main/java/com/atguigu/springcloud/dao/DeptDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/main/java/com/atguigu/springcloud/service/DeptService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/main/java/com/atguigu/springcloud/service/impl/DeptServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/main/resources/mybatis/mapper/DeptMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/main/resources/mybatis/mybatis.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8002/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8002/src/main/java/com/atguigu/springcloud/DeptProvider8002_App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8002/src/main/java/com/atguigu/springcloud/controller/DeptController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8002/src/main/java/com/atguigu/springcloud/dao/DeptDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8002/src/main/java/com/atguigu/springcloud/service/DeptService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8002/src/main/java/com/atguigu/springcloud/service/impl/DeptServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8002/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8002/src/main/resources/mybatis/mapper/DeptMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8002/src/main/resources/mybatis/mybatis.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8003/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8003/src/main/java/com/atguigu/springcloud/DeptProvider8003_App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8003/src/main/java/com/atguigu/springcloud/controller/DeptController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8003/src/main/java/com/atguigu/springcloud/dao/DeptDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8003/src/main/java/com/atguigu/springcloud/service/DeptService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8003/src/main/java/com/atguigu/springcloud/service/impl/DeptServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8003/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8003/src/main/resources/mybatis/mapper/DeptMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8003/src/main/resources/mybatis/mybatis.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/microservicecloudproviderdepthystrix8001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/src/main/java/com/atguigu/springcloud/DeptProvider8001_Hystrix_App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/src/main/java/com/atguigu/springcloud/controller/DeptController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/src/main/java/com/atguigu/springcloud/dao/DeptDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/src/main/java/com/atguigu/springcloud/service/DeptService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/src/main/java/com/atguigu/springcloud/service/impl/DeptServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/src/main/resources/mybatis/mapper/DeptMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/src/main/resources/mybatis/mybatis.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-zuul-gateway-9527/microservicecloudzuulgateway9527.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-zuul-gateway-9527/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-zuul-gateway-9527/src/main/java/com/atguigu/springcloud/Zuul_9527_StartSpringCloudApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-zuul-gateway-9527/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/admin/huaxi/add_conditon.html" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/admin/huaxi/add_file.html" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/admin/huaxi/add_scheme.html" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/admin/huaxi/add_timeline.html" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/admin/huaxi/appointment_time.html" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/admin/huaxi/edit_condition.html" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/admin/huaxi/edit_file.html" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/admin/huaxi/edit_patient.html" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/admin/huaxi/edit_scheme.html" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/admin/huaxi/edit_timeline.html" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/admin/huaxi/email-write.html" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/admin/huaxi/hover.css" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/admin/huaxi/patient_add.html" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/admin/huaxi/patient_list.html" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/admin/huaxi/scheme.html" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/admin/huaxi/search_result.html" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/admin/huaxi/use.js" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/admin/huaxi/user.html" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/index.html" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/css/admin.css" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/css/avatar.css" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/css/column.css" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/css/comment.css" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/css/css3.css" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/css/email.css" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/css/grid.css" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/css/login.css" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/css/page.css" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/css/panel.css" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/css/reset.css" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/css/var.css" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/fonts/demo.css" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/fonts/demo.html" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/fonts/demo_fontclass.html" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/fonts/demo_symbol.html" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/fonts/demo_unicode.html" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/fonts/iconfont.css" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/fonts/iconfont.eot" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/fonts/iconfont.js" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/fonts/iconfont.svg" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/fonts/iconfont.ttf" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/fonts/iconfont.woff" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/images/1.jpg" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/images/2.jpg" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/images/3.jpg" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/images/l-line-white.png" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/images/l-line.png" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/images/login/login_bg.png" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/images/login/login_line.jpg" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/images/login/yzm.jpg" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/images/logo.png" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/images/sp_main_bg.jpg" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/images/th (1).jpg" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/images/th (2).jpg" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/images/th.jpg" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/images/下载.jpg" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/js/common.js" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/js/jquery-1.10.2.min.js" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/js/main.js" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/css/layui.css" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/css/layui.mobile.css" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/css/modules/code.css" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/css/modules/laydate/default/laydate.css" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/css/modules/laydate/icon.png" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/css/modules/laydate/laydate.css" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/css/modules/layer/default/icon-ext.png" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/css/modules/layer/default/icon.png" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/css/modules/layer/default/layer.css" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/css/modules/layer/default/loading-0.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/css/modules/layer/default/loading-1-1.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/css/modules/layer/default/loading-1.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/css/modules/layer/default/loading-2.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/css/modules/layer/default/loading-4.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/font/iconfont.eot" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/font/iconfont.svg" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/font/iconfont.woff" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/0.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/1.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/10.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/11.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/12.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/13.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/14.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/15.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/16.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/17.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/18.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/19.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/2.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/20.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/21.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/22.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/23.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/24.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/25.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/26.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/27.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/28.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/29.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/3.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/30.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/31.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/32.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/33.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/34.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/35.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/36.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/37.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/38.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/39.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/4.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/40.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/41.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/42.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/43.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/44.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/45.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/46.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/47.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/48.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/49.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/5.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/50.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/51.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/52.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/53.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/54.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/55.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/56.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/57.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/58.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/59.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/6.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/60.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/61.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/62.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/63.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/64.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/65.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/66.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/67.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/68.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/69.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/7.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/70.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/71.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/8.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/images/face/9.gif" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/lay/dest/layui.all.js" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/lay/layui.js" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/lay/modules/carousel.js" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/lay/modules/code.js" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/lay/modules/element.js" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/lay/modules/flow.js" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/lay/modules/form.js" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/lay/modules/jquery.js" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/lay/modules/laydate.js" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/lay/modules/layedit.js" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/lay/modules/layer.js" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/lay/modules/laypage.js" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/lay/modules/laytpl.js" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/lay/modules/mobile.js" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/lay/modules/table.js" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/lay/modules/tree.js" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/lay/modules/upload.js" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/lay/modules/util.js" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/layui.all.js" afterDir="false" />
+      <change afterPath="F:/IdeaWork/huaxi/src/main/resources/static/huaxi/static/admin/layui/layui.js" afterDir="false" />
+      <change afterPath="F:/IdeaWork/javaclass/.idea/modules.xml" afterDir="false" />
+      <change afterPath="F:/IdeaWork/javaclass/java_two/java_two.iml" afterDir="false" />
+      <change afterPath="F:/IdeaWork/javaclass/java_two/src/com/First.java" afterDir="false" />
+      <change afterPath="F:/IdeaWork/javaclass/java_two/src/com/One.java" afterDir="false" />
+      <change afterPath="F:/IdeaWork/javaclass/java_two/src/com/Test.java" afterDir="false" />
+      <change afterPath="F:/IdeaWork/javaclass/java_two/src/com/Two.java" afterDir="false" />
+      <change afterPath="F:/IdeaWork/javaclass/src/main/java/eight/one/Main.java" afterDir="false" />
+      <change afterPath="F:/IdeaWork/javaclass/src/main/java/eight/two/Two.java" afterDir="false" />
+      <change afterPath="F:/IdeaWork/javaclass/src/main/java/lanqiao/Main.java" afterDir="false" />
+      <change afterPath="F:/IdeaWork/javaclass/src/main/java/nine/one/Main.java" afterDir="false" />
+      <change afterPath="F:/IdeaWork/javaclass/src/main/java/one/three/Main.java" afterDir="false" />
+      <change afterPath="F:/IdeaWork/javaclass/src/main/java/one/two/Main.java" afterDir="false" />
+      <change afterPath="F:/IdeaWork/javaclass/src/main/java/seven/one/StringClass.java" afterDir="false" />
+      <change afterPath="F:/IdeaWork/javaclass/src/main/java/seven/two/ElementSwap.java" afterDir="false" />
+      <change afterPath="F:/IdeaWork/javaclass/src/main/java/test/SynchronizedTest.java" afterDir="false" />
+      <change afterPath="F:/IdeaWork/javaclass/src/main/java/twelve/Main.java" afterDir="false" />
+      <change afterPath="F:/IdeaWork/javaclass/src/main/java/twelve/StudentA.java" afterDir="false" />
+      <change afterPath="F:/IdeaWork/javaclass/src/main/java/twelve/StudentB.java" afterDir="false" />
+      <change afterPath="F:/IdeaWork/javaclass/src/main/java/twelve/Teacher.java" afterDir="false" />
+      <change afterPath="F:/IdeaWork/javaclass/src/main/java/two/one/Main.java" afterDir="false" />
+      <change afterPath="F:/IdeaWork/javaclass/src/main/java/two/two/Main.java" afterDir="false" />
+      <change afterPath="F:/IdeaWork/javaclass/src/作业.txt" afterDir="false" />
+      <change afterPath="F:/Mnist/Mnist-tensorFlow-AndroidDemo - 副本/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="F:/Mnist/Mnist-tensorFlow-AndroidDemo - 副本/Mnist-tensorFlow-AndroidDemo - 副本.iml" afterDir="false" />
+      <change afterPath="F:/Mycamare/.gitignore" afterDir="false" />
+      <change afterPath="F:/Mycamare/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="F:/Mycamare/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="F:/Mycamare/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="F:/Mycamare/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="F:/Mycamare/.idea/misc.xml" afterDir="false" />
+      <change afterPath="F:/Mycamare/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="F:/Mycamare/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="F:/Mycamare/app/.gitignore" afterDir="false" />
+      <change afterPath="F:/Mycamare/app/build.gradle" afterDir="false" />
+      <change afterPath="F:/Mycamare/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="F:/Mycamare/app/src/androidTest/java/com/example/camera/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="F:/Mycamare/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="F:/Mycamare/app/src/main/java/com/example/camera/MainActivity.kt" afterDir="false" />
+      <change afterPath="F:/Mycamare/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="F:/Mycamare/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="F:/Mycamare/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="F:/Mycamare/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="F:/Mycamare/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="F:/Mycamare/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="F:/Mycamare/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="F:/Mycamare/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="F:/Mycamare/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="F:/Mycamare/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="F:/Mycamare/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="F:/Mycamare/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="F:/Mycamare/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="F:/Mycamare/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="F:/Mycamare/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="F:/Mycamare/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="F:/Mycamare/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="F:/Mycamare/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="F:/Mycamare/app/src/test/java/com/example/camera/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="F:/Mycamare/build.gradle" afterDir="false" />
+      <change afterPath="F:/Mycamare/gradle.properties" afterDir="false" />
+      <change afterPath="F:/Mycamare/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="F:/Mycamare/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="F:/Mycamare/gradlew" afterDir="false" />
+      <change afterPath="F:/Mycamare/gradlew.bat" afterDir="false" />
+      <change afterPath="F:/Mycamare/settings.gradle" afterDir="false" />
+      <change afterPath="F:/ViewPager_Fragment/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="F:/ViewPager_Fragment/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="F:/WebStormWork/.idea/dictionaries/ASU.xml" afterDir="false" />
+      <change afterPath="F:/WebStormWork/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/55-新浪微博/css/index.css" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/55-新浪微博/images/body_bg.jpg" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/55-新浪微博/images/comment.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/55-新浪微博/images/icons.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/55-新浪微博/images/inputBg.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/55-新浪微博/images/left.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/55-新浪微博/images/nav.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/55-新浪微博/images/right.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/55-新浪微博/index.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/55-新浪微博/js/index.js" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/55-新浪微博/js/jquery-1.12.4.js" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/css/index.css" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/images/game_bg.jpg" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/images/h.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/images/h0.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/images/h1.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/images/h2.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/images/h3.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/images/h4.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/images/h5.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/images/h6.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/images/h7.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/images/h8.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/images/h9.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/images/icon_19.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/images/logo.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/images/myrank_bg.jpg" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/images/progress.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/images/x.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/images/x0.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/images/x1.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/images/x2.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/images/x3.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/images/x4.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/images/x5.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/images/x6.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/images/x7.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/images/x8.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/images/x9.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/index.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/js/index.js" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/56-狂拍灰太狼/js/jquery-1.12.4.js" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/01-初识jQuery.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/02-jQuery-HelloWorld.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/03-jQuery和JS入口函数的区别.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/04-jQuery.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/05-jQuer.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/06-jquery.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/07-jqery.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/08-静态方法和实例方法.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/09-each方法.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/10-静态方法map方法.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/11-jquery其他静态方法.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/12-静态方法holdReady方法.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/13-通过webStorm简化操作.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/14-jquery内容选择器.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/15-属性和属性节点.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/16-jquery的attributes方法.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/17-jquery的prop方法.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/18-attr和prop区别.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/19-jQuery操作类相关的方法.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/20-jquery文本值相关方法.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/21-Jquery操作ＣSS样式的方法.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/22-jquery位置和尺寸操作的方法.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/23-jquery的scrollTop方法.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/24-jQuery事件绑定.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/25-jquery事件移除.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/26-jquery事件冒泡和默行为.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/27-jquery自动触发.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/28-jquery自定义事件.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/29-jquery事件命名空间.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/30-jquery事件命名空间面试题.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/31-jquery事件委托.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/31-jquery事件委托练习.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/33-jquery移入移除事件.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/34-jquery电影排行榜上.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/36-tab选项卡.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/39-jquery显示和隐藏.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/40-对联广告.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/41-jquery展开和收起动画.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/42-折叠菜单上.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/44-下拉菜单.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/45-淡入淡出动画.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/46-弹窗广告.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/47-自定义动画.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/48-jquery的stop和delay的方法.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/49-jquery图标特效.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/50-无限循环.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/51-jquery添加节点相关的方法.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/html/53-jquery替换接点相关方法.html" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/images/11.jpg" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/images/12.jpg" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/images/13.jpg" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/images/14.jpg" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/images/a.jpg" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/images/ad-pic.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/images/arrow_right.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/images/b.jpg" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/images/bg.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/images/c.jpg" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/images/d.jpg" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/images/left_ad.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/images/lnj.jpg" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/images/login.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/images/right_ad.png" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/images/zl.jpg" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/js/jquery-1.12.4.js" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/js/jquery-1.12.4.min.js" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/js/jquery-2.2.4.js" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/js/jquery-2.2.4.min.js" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/js/jquery-3.4.1.js" afterDir="false" />
+      <change afterPath="F:/WebStormWork/first/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_android_support_appcompat_v7_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_3_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_1_3_jar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_android_support_support_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__de_hdodenhof_circleimageview_2_1_0_aar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
+      <change afterPath="F:/travel/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
+      <change afterPath="F:/travel/app/src/main/java/com/example/travel/start.java" afterDir="false" />
+      <change afterPath="F:/travel/app/src/main/res/layout/start.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-api/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-provider-dept-8001/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-consumer-dept-80/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-eureka-7001/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-eureka-7002/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-eureka-7003/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-provider-dept-8002/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-provider-dept-8003/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-consumer-dept-fegin/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-consumer-hystrix-dashboard/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-zuul-gateway-9527/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-config-3344/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-config-client-3355/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-config-3333/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1329168609">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="4" />
+          <entry key="iml" value="3" />
+          <entry key="java" value="127" />
+          <entry key="xml" value="73" />
+          <entry key="yml" value="52" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="4" />
+          <entry key="IDEA_MODULE" value="3" />
+          <entry key="JAVA" value="127" />
+          <entry key="XML" value="73" />
+          <entry key="YAML" value="52" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="32" />
+          <entry key="java" value="2143" />
+          <entry key="xml" value="415" />
+          <entry key="yml" value="188" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2143" />
+          <entry key="PLAIN_TEXT" value="32" />
+          <entry key="SQL" value="3" />
+          <entry key="XML" value="412" />
+          <entry key="YAML" value="188" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/src/main/java/com/atguigu/springcloud/Config_Git_EurekaServerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#433#434#0" expanded="true" />
+                <element signature="e#518#519#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/java/com/atguigu/springcloud/DeptProvider8001_App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#473#474#0" expanded="true" />
+                <element signature="e#543#544#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="F:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-8003/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-80/src/main/java/com/atguigu/springcloud/cfgbean/ConfigBean.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-80/src/main/java/com/atguigu/springcloud/DeptConsumer80_App.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-80/src/main/java/com/atguigu/myrule/My.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-80/src/main/java/com/atguigu/myrule/RandomRule_ZY.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-80/src/main/java/com/atguigu/myrule/MySelfRule.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-fegin/src/main/java/com/atguigu/springcloud/DeptConsumer80_App.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-fegin/src/main/java/com/atguigu/springcloud/DeptConsumerFegin_App.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-fegin/src/main/java/com/atguigu/springcloud/DeptConsumer80_Fegin_App.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-fegin/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-api/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/src/main/java/com/atguigu/springcloud/controller/DeptController_Consumer.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/src/main/java/com/atguigu/springcloud/cfgbean/ConfigBean.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/src/main/java/com/atguigu/springcloud/DeptConsumer80_App.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/src/main/java/com/atguigu/springcloud/controller/DeptController.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/src/main/java/com/atguigu/springcloud/DeptProvider8001_App.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/src/main/java/com/atguigu/springcloud/DeptProvider8001_Hystrix_App.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-api/src/main/java/com/atguigu/springcloud/service/DeptClientServiceFallbackFactory.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-api/src/main/java/com/atguigu/springcloud/service/DeptClientService.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-hystrix-dashboard/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-hystrix-dashboard/src/main/java/com/atguigu/springcloud/DeptConsumer_DashBoard_App.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-zuul-gateway-9527/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-zuul-gateway-9527/src/main/java/com/atguigu/springcloud/Zuul_9527_StartSpringCloudApp.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-zuul-gateway-9527/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloud-config-3344/src/main/java/com/atuguigu/springcloud/Config_3344_StartSpringCloudApp.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-config-3355/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloud-config-3355/src/main/java/com/atguigu/springcloud/Config_3344_StartSpringCloudApp.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-config-3355/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-config-client-3355/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-config-client-3355/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloud-config-client-3355/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/microservicecloud-config-client-3355/src/main/java/com/atguigu/springcloud/rest/ConfigClientRest.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-config-client-3355/src/main/java/com/atguigu/springcloud/ConfigClient_3355_StartSpringCloudApp.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-config-3344/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloud-config-3344/src/main/java/com/atguigu/springcloud/Config_3344_StartSpringCloudApp.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-config-3344/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-config-3333/src/main/java/com/atguigu/springcloud/Config_3333_StartSpringCloudApp.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-config-3333/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/src/main/java/com/atguigu/springcloud/Config_Git_EurekaServerApplication.java" />
+        <option value="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/resources/bootstrap.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven3_5_4\repository" />
+        <option name="mavenHome" value="E:/maven3_5_4/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="E:\maven3_5_4\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1060" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="microservicecloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-config-dept-client-8001" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-config-dept-client-8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-config-dept-client-8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-config-dept-client-8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-config-dept-client-8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-config-dept-client-8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-config-dept-client-8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservicecloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microservicecloud-config-dept-client-8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580618985267" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15332031" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.splitter.proportion" value="0.2372171" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.springcloud" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IDEAWorkLearning\microservicecloud\microservicecloud-config-dept-client-8001\src\main\resources" />
+      <recent name="F:\IDEAWorkLearning\microservicecloud\microservicecloud-config-dept-client-8001\src\main\java" />
+      <recent name="F:\IDEAWorkLearning\microservicecloud\microservicecloud-config-3333\src\main\resources" />
+      <recent name="F:\IDEAWorkLearning\microservicecloud\microservicecloud-provider-dept-hystrix-8001\src\main\resources" />
+      <recent name="F:\IDEAWorkLearning\microservicecloud\microservicecloud-provider-dept-hystrix-8001\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DeptProvider8001_App">
+    <configuration name="Config_3344_StartSpringCloudApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.springcloud.Config_3344_StartSpringCloudApp" />
+      <module name="microservicecloudconfig3344" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigClient_3355_StartSpringCloudApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservicecloudconfigclient3355" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.ConfigClient_3355_StartSpringCloudApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Config_3333_StartSpringCloudApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservicecloudconfig3333" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.Config_3333_StartSpringCloudApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Config_Git_EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservicecloudconfigeurekaclient7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.Config_Git_EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptProvider8001_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservicecloudconfigdeptclient8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.DeptProvider8001_App" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndTriggerFile" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Config_3344_StartSpringCloudApp" />
+      <item itemvalue="Spring Boot.Config_3333_StartSpringCloudApp" />
+      <item itemvalue="Spring Boot.ConfigClient_3355_StartSpringCloudApp" />
+      <item itemvalue="Spring Boot.Config_Git_EurekaServerApplication" />
+      <item itemvalue="Spring Boot.DeptProvider8001_App" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.DeptProvider8001_App" />
+        <item itemvalue="Spring Boot.Config_Git_EurekaServerApplication" />
+        <item itemvalue="Spring Boot.Config_3333_StartSpringCloudApp" />
+        <item itemvalue="Spring Boot.ConfigClient_3355_StartSpringCloudApp" />
+        <item itemvalue="Application.Config_3344_StartSpringCloudApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc9022ce-a11e-4c3d-bd2f-1bf325387b0d" name="Default Changelist" comment="" />
+      <created>1580268175553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580268175553</updated>
+      <workItem from="1580268183100" duration="2545000" />
+      <workItem from="1580270856736" duration="48055000" />
+      <workItem from="1580533612324" duration="7229000" />
+      <workItem from="1580541904428" duration="2116000" />
+      <workItem from="1580611055423" duration="8255000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_Features_in__microservicecloud-eureka-7001 - 2020.01.31 at 11h 12m 58s.xml">
+      <configuration name="All Features in: microservicecloud-eureka-7001" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="68200000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.496" visible="true" weight="0.2955764" />
+      <window_info id="Structure" order="1" sideWeight="0.504" side_tool="true" weight="0.2533512" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798927" weight="0.40419582" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32867134" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49932975" weight="0.32867134" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5020107" side_tool="true" weight="0.44335663" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="11" />
+      <window_info anchor="bottom" id="Problems" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49932975" weight="0.32867134" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3297587" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3297587" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/src/main/java/com/atguigu/springcloud/service/impl/DeptServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/src/main/java/com/atguigu/springcloud/dao/DeptDao.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/src/main/java/com/atguigu/springcloud/service/DeptService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-api/src/main/java/com/atguigu/springcloud/service/DeptClientService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-api/src/main/java/com/atguigu/springcloud/service/DeptClientServiceFallbackFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/src/main/java/com/atguigu/springcloud/controller/DeptController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-feign/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-feign/src/main/java/com/atguigu/springcloud/DeptConsumer80_App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-feign/src/main/java/com/atguigu/springcloud/controller/DeptController_Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="29" column="68" selection-start-line="29" selection-start-column="68" selection-end-line="29" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-zuul-gateway-9527/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1300">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/src/main/java/com/atguigu/springcloud/DeptProvider8001_Hystrix_App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-zuul-gateway-9527/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-zuul-gateway-9527/src/main/java/com/atguigu/springcloud/Zuul_9527_StartSpringCloudApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-hystrix-dashboard/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-dept-feign/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-config-3344/src/main/java/com/atuguigu/springcloud/Config_3344_StartSpringCloudApp.java" />
+    <entry file="file://$PROJECT_DIR$/microservicecloud-config-3355/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/microservicecloud-config-3355/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/microservicecloud-config-3355/src/main/java/com/atguigu/springcloud/Config_3344_StartSpringCloudApp.java" />
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/main/java/com/atguigu/springcloud/DeptProvider8001_App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-config-3344/microservicecloudconfig3344.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-provider-dept-8001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="74" column="57" selection-start-line="74" selection-start-column="57" selection-end-line="74" selection-end-column="57" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-hystrix-dashboard/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-consumer-hystrix-dashboard/src/main/java/com/atguigu/springcloud/DeptConsumer_DashBoard_App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-config-3344/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-config-3344/src/main/java/com/atguigu/springcloud/Config_3344_StartSpringCloudApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-config-3344/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="56" column="20" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-config-3333/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-config-3333/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-config-3333/src/main/java/com/atguigu/springcloud/Config_3333_StartSpringCloudApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-config-client-3355/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="48" column="47" selection-start-line="48" selection-start-column="47" selection-end-line="48" selection-end-column="47" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-config-client-3355/src/main/java/com/atguigu/springcloud/rest/ConfigClientRest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-config-client-3355/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-config-client-3355/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-config-client-3355/src/main/java/com/atguigu/springcloud/ConfigClient_3355_StartSpringCloudApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-config-dept-client-8001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/java/com/atguigu/springcloud/service/impl/DeptServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/java/com/atguigu/springcloud/dao/DeptDao.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/java/com/atguigu/springcloud/service/DeptService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/java/com/atguigu/springcloud/controller/DeptController.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/src/main/java/com/atguigu/springcloud/Config_Git_EurekaServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/resources/mybatis/mapper/DeptMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/java/com/atguigu/springcloud/DeptProvider8001_App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>microservicecloud</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
